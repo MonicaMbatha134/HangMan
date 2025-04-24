@@ -1,4 +1,5 @@
 Hangman Game in C#
+
 A simple, interactive Hangman game built with C#. Play in your terminal and guess the hidden word before you run out of attempts!
 
 Features
